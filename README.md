@@ -2,8 +2,8 @@
 instructions to download:
 download both files from releases(the .appxbundle and .cer)
 open the .cer file and click install certifacate
+
 ![instructions 1](https://github.com/user-attachments/assets/e578a749-4975-4974-8051-e0f7600a8e67)
-click on what the images tells u cmon:
 
 ![instructions 2](https://github.com/user-attachments/assets/0bedefda-8f82-409f-80af-693b49438de4) 
 
@@ -13,7 +13,10 @@ click on what the images tells u cmon:
 
 ![instructions 5](https://github.com/user-attachments/assets/007f9c6b-4b21-4cd8-8205-474cc31ce689)
 
+
 open the .appxbundle file and click install
+
+
 ![instructions 6](https://github.com/user-attachments/assets/6948ed3d-70ef-4095-b975-15306e5f1017)
 
 
